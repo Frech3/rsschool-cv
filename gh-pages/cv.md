@@ -1,6 +1,6 @@
 # Roman Nesterov
 
-![image](../Photo.jpg)
+<img src="../Photo.jpg" alt="image" width="25%" height="auto">
 
 ## Contact information
 Email - homa.kokk@rambler.ru
