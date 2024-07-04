@@ -1,1 +1,1 @@
-https://frech3.github.io/rsschool-cv/cv
+https://frech3.github.io/rsschool-cv/
